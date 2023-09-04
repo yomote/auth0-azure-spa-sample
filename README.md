@@ -5,10 +5,12 @@ Sample code using Auth0 SDK with Azure
 - controls authentication for a SPA served by Azure hosting service
 - calls an authorization-controlled backend API deployed to Azure Functions
 - is implemented two patterns: [stateless authentication](frontend/stateless) and [stateful authentication](frontend/stateful).
-    <div display="flex">
-      <img src="docs/img/stateless_auth.png">
-      <img src="docs/img/stateful_auth.png">
-    </div>
+
+<p align="center" width="100%">
+  <img width="40%" src="docs/img/stateless_auth.png">
+  <img width="51%" src="docs/img/stateful_auth.png">
+</p>
+
 
 ## Overview
 
